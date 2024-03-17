@@ -1,0 +1,11 @@
+h1{
+    color: Blue;
+}
+body{
+    background-color: rgba(88, 228, 128, 0.389);
+}
+a{
+    position: relative;
+    left: 44%;
+    width: 150px;
+}
